@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 1,
+    "NOMBRE": "Café Galáctico",
+    "DESCRIPCION": "Una explosión de sabor que te transporta a otra dimensión.",
+    "PRECIO": 4.50
+  },
+  {
+    "ID": 2,
+    "NOMBRE": "Auriculares EcoSonido",
+    "DESCRIPCION": "Disfruta de música envolvente mientras cuidas el planeta.",
+    "PRECIO": 29.99
+  },
+  {
+    "ID": 3,
+    "NOMBRE": "Mochila Aventurera",
+    "DESCRIPCION": "Para exploradores urbanos y viajeros interplanetarios.",
+    "PRECIO": 49.95
+  },
+  {
+    "ID": 4,
+    "NOMBRE": "Lámpara Luminova",
+    "DESCRIPCION": "Ilumina tus noches con destellos de imaginación.",
+    "PRECIO": 22.00
+  },
+  {
+    "ID": 5,
+    "NOMBRE": "Cuaderno Infinito",
+    "DESCRIPCION": "Cada página guarda secretos de tu creatividad sin fin.",
+    "PRECIO": 7.75
+  },
+  {
+    "ID": 6,
+    "NOMBRE": "Taza de los Sueños",
+    "DESCRIPCION": "El café sabe mejor cuando despiertas tu imaginación.",
+    "PRECIO": 12.50
+  },
+  {
+    "ID": 7,
+    "NOMBRE": "Reloj Tiempo Mágico",
+    "DESCRIPCION": "Marca el ritmo de tus aventuras con estilo y magia.",
+    "PRECIO": 65.00
+  },
+  {
+    "ID": 8,
+    "NOMBRE": "Aurora Sensorial",
+    "DESCRIPCION": "Velas aromáticas que pintan colores en tu mente.",
+    "PRECIO": 18.90
+  },
+  {
+    "ID": 9,
+    "NOMBRE": "Almohada Nube Suave",
+    "DESCRIPCION": "Duerme como si flotaras entre algodones de ensueño.",
+    "PRECIO": 25.00
+  },
+  {
+    "ID": 10,
+    "NOMBRE": "Bolígrafo Creativo",
+    "DESCRIPCION": "Cada trazo transforma tus ideas en obras de arte.",
+    "PRECIO": 3.99
+  }
+]
